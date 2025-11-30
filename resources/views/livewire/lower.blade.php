@@ -1,6 +1,6 @@
 <?php
 
-use function Livewire\Volt\{state,mount};
+use function Livewire\Volt\{state, mount};
 
 state(['word', 'word_lower']);
 

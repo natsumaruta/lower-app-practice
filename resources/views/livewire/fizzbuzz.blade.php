@@ -4,9 +4,6 @@ use function Livewire\Volt\{state};
 
 state([
     'count' => 0,
-    'FizzBuzz',
-    'Buzz',
-    'Fizz',
     'text',
 ]);
 
